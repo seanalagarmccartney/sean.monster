@@ -1,5 +1,5 @@
 # Hi I'm Sean!
-## It's Nice To Meet You
+## It's Nice To Meet You.
 Welcome to my contact page.  
 
 ### Socials
@@ -10,5 +10,8 @@ Welcome to my contact page.
 [Venmo](https://venmo.com/saladgar "Pay me on Venmo!")  
 
 ### Locale
-five oh three eight six seven nine one two three  
-Portland, Oregon, USA   
+five oh three  
+eight six seven  
+nine one two three  
+
+#### Portland, Oregon, USA   
