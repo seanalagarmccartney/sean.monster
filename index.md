@@ -1,4 +1,4 @@
-# Hi I'm Sean!
+# Hi, I'm Sean!
 ## It's Nice To Meet You.
 Welcome to my contact page.  
 
